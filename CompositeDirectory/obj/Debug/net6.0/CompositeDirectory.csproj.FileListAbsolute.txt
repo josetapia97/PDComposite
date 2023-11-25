@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\bin\Debug\net6.0\CompositeDirectory.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\bin\Debug\net6.0\CompositeDirectory.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\bin\Debug\net6.0\CompositeDirectory.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\bin\Debug\net6.0\CompositeDirectory.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\bin\Debug\net6.0\CompositeDirectory.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\obj\Debug\net6.0\CompositeDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\obj\Debug\net6.0\CompositeDirectory.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\obj\Debug\net6.0\CompositeDirectory.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\obj\Debug\net6.0\CompositeDirectory.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\obj\Debug\net6.0\CompositeDirectory.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\obj\Debug\net6.0\refint\CompositeDirectory.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\obj\Debug\net6.0\CompositeDirectory.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\obj\Debug\net6.0\CompositeDirectory.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeDirectory\obj\Debug\net6.0\ref\CompositeDirectory.dll
