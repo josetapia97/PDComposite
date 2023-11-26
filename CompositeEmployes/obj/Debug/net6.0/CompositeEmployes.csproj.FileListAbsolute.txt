@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\bin\Debug\net6.0\CompositeEmployes.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\bin\Debug\net6.0\CompositeEmployes.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\bin\Debug\net6.0\CompositeEmployes.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\bin\Debug\net6.0\CompositeEmployes.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\bin\Debug\net6.0\CompositeEmployes.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\obj\Debug\net6.0\CompositeEmployes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\obj\Debug\net6.0\CompositeEmployes.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\obj\Debug\net6.0\CompositeEmployes.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\obj\Debug\net6.0\CompositeEmployes.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\obj\Debug\net6.0\CompositeEmployes.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\obj\Debug\net6.0\refint\CompositeEmployes.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\obj\Debug\net6.0\CompositeEmployes.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\obj\Debug\net6.0\CompositeEmployes.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Composite\CompositeEmployes\obj\Debug\net6.0\ref\CompositeEmployes.dll
